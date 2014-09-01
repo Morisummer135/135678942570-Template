@@ -1,0 +1,25 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.3.5)  4 APR 2014 14:24
+entering extended mode
+**C:/Users/135678942570/Desktop/workspace/135678942570*Template/title
+("C:/Users/135678942570/Desktop/workspace/135678942570 Template/title.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+! Undefined control sequence.
+l.1 \newgeometry
+                {left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
+? 
+! Emergency stop.
+l.1 \newgeometry
+                {left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 5 strings out of 430478
+ 214 string characters out of 3191503
+ 44928 words of memory out of 3000000
+ 3235 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 5i,0n,1p,125b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
