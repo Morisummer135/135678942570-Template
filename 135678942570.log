@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.3.5)  8 JUL 2014 23:51
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.3.5)  30 OCT 2014 10:28
 entering extended mode
-**C:/Users/135678942570/Desktop/workspace/135678942570*Template/135678942570
+**135678942570.tex
 
-("C:/Users/135678942570/Desktop/workspace/135678942570 Template/135678942570.te
-x"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\135678942570.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (D:\CTEX\MiKTeX\tex\latex\base\article.cls
@@ -681,8 +681,8 @@ tly
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570.au
-x")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\135678942570.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
@@ -820,13 +820,16 @@ LaTeX Info: Redefining \ref on input line 43.
 LaTeX Info: Redefining \pageref on input line 43.
 LaTeX Info: Redefining \nameref on input line 43.
 
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570.ou
-t")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570.ou
-t")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\135678942570.out")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\135678942570.out")
 \@outlinefile=\write3
- ("C:\Users\135678942570\Desktop\workspace\135678942570 Template\settings.tex")
- ("C:\Users\135678942570\Desktop\workspace\135678942570 Template\title.tex"
+
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\settings.tex")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\title.tex"
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -859,15 +862,15 @@ t")
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(D:\CTEX\MiKTeX\tex\generic\oberdiek\se-ascii-print.def
+ (D:\CTEX\MiKTeX\tex\generic\oberdiek\se-ascii-print.def
 File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
-) [1
+)
+[1
 
 
 ])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570.to
-c"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\135678942570.toc"
 \g_fontspec_family_微软雅黑_int=\count200
 .................................................
 . fontspec info: "no-font-shape"
@@ -911,7 +914,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 )
 \tf@toc=\write4
  [2]
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry.tex"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry.tex"
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -964,18 +968,18 @@ Package xeCJK Warning: Unknown CJK family `sf' is ignored.
 Use \setCJKfamilyfont to define a CJK family. on input line 132.
 
 
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\head.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\is_convex.cpp" [5])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\is_convex_v2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\inside_convex.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\inside_convex_v2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\inside_polygon.cpp"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\head.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\is_convex.cpp" [5])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\is_convex_v2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\inside_convex.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\inside_convex_v2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\inside_polygon.cpp"
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -985,154 +989,162 @@ n\inside_polygon.cpp"
 . This font family consists of the following shapes:
 .................................................
 )
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\inside_polygon_v2.cpp" [6])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\polygo
-n\barycenter.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\head.cpp" [7])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\dis.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\dots_inline.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\dot_online_in.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\dot_online_ex.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\same_side.cpp" [8])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\opposite_side.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\parallel.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\perpendicular.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\intersect_in.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\intersect_ex.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\intersection.cpp" [9])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\ptoline.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\disptoline.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\ptoseg.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\disptoseg.cpp") [10]
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\float_
-function\rotate.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\triang
-le\head.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\triang
-le\circumcenter.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\triang
-le\incenter.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\triang
-le\perpencenter.cpp" [11])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\triang
-le\barycenter.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\triang
-le\fermentpoint.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\head.cpp" [12])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\pvec.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\dots_inline.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\dots_onplane.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\dot_online_in.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\dot_online_ex.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\dot_inplane_in.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\dot_inplane_ex.cpp" [13])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\same_side.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\opposite_side.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\same_side2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\opposite_side2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\parallel.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\parallel2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\parallel3.cpp" [14])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\perpendicular.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\perpendicular2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\perpendicular3.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\intersect_in.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\intersect_ex.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\intersect_in2.cpp" [15])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\intersect_ex2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\intersection.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\intersection2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\intersection3.cpp" [16])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\ptoline.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\ptoplane.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\linetoline.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\angle_cos.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\angle_cos2.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\3Dgeom
-etry\angle_sin.cpp") [17]
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\grids.
-cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-\head.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-\intersect_line_circle.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-\intersect_seg_circle.cpp" [18])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-\intersect_circle_circle.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-\dot_to_circle.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-\intersection_line_circle.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-\intersection_circle_circle.cpp")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\convex
-.cpp" [19])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\HPI.cp
-p" [20] [21])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-_area_add.cpp" [22] [23])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\circle
-_polygon_area.cpp" [24] [25])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\geometry\convex
-3d.cpp" [26] [27])) [28]
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\graph.tex"
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\graph\tarjan.cp
-p")
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\graph\sap.cpp"
-[29
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\inside_polygon_v2.cpp" [6])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\polygon\barycenter.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\head.cpp" [7])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\dis.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\dots_inline.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\dot_online_in.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\dot_online_ex.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\same_side.cpp" [8])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\opposite_side.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\parallel.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\perpendicular.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\intersect_in.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\intersect_ex.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\intersection.cpp" [9])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\ptoline.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\disptoline.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\ptoseg.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\disptoseg.cpp") [10]
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\float_function\rotate.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\triangle\head.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\triangle\circumcenter.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\triangle\incenter.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\triangle\perpencenter.cpp" [11])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\triangle\barycenter.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\triangle\fermentpoint.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\head.cpp" [12])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\pvec.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\dots_inline.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\dots_onplane.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\dot_online_in.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\dot_online_ex.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\dot_inplane_in.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\dot_inplane_ex.cpp" [13])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\same_side.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\opposite_side.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\same_side2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\opposite_side2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\parallel.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\parallel2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\parallel3.cpp" [14])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\perpendicular.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\perpendicular2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\perpendicular3.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\intersect_in.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\intersect_ex.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\intersect_in2.cpp" [15])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\intersect_ex2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\intersection.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\intersection2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\intersection3.cpp" [16])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\ptoline.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\ptoplane.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\linetoline.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\angle_cos.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\angle_cos2.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\3Dgeometry\angle_sin.cpp") [17]
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\grids.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle\head.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle\intersect_line_circle.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle\intersect_seg_circle.cpp" [18])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle\intersect_circle_circle.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle\dot_to_circle.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle\intersection_line_circle.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle\intersection_circle_circle.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\convex.cpp" [19])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\HPI.cpp" [20] [21])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle_area_add.cpp" [22] [23])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\circle_polygon_area.cpp" [24] [25])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\geometry\convex3d.cpp" [26] [27])) [28]
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\math.tex"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\math\nim_mul.cpp")) [29
+
+]
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\graph.tex"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\graph\tarjan.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\graph\sap.cpp" [30
 
 ])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\graph\MCMF.cpp"
-[30] [31])) [32]
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\string.tex"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\graph\MCMF.cpp" [31] [32])) [33]
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\string.tex"
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1142,34 +1154,50 @@ p")
 . This font family consists of the following shapes:
 .................................................
 
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\string\dc3.cpp"
-) ("C:\Users\135678942570\Desktop\workspace\135678942570 Template\string\da.cpp
-" [33
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\string\dc3.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\string\da.cpp" [34
 
 ])
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\string\sam.cpp"
-[34])) [35]
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\mist.tex"
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\mist\Dancing_Li
-nks.cpp" [36
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\string\sam.cpp" [35]) [36]
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\string\manacher.cpp")
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\string\Minimum_Representation.cpp")) [37]
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\mist.tex"
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\mist\Dancing_Links.cpp" [38
 
-] [37]))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
- [38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
+] [39])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\mist\manhattan_MST.cpp" [40] [41])
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\mist\stack.cpp"
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 7.
+ (D:\CTEX\MiKTeX\tex\latex\euenc\eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\mist\input.cpp"))
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
+ [42]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
 
-("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570.au
-x")
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 54.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 54.
+("C:\Users\135678942570\Desktop\workspace\135678942570 Template\135678942570-Te
+mplate\135678942570.aux")
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 56.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 56.
  ) 
 Here is how much of TeX's memory you used:
- 21808 strings out of 430478
- 415736 string characters out of 3191503
- 745839 words of memory out of 3000000
- 24471 multiletter control sequences out of 15000+200000
- 6680 words of font info for 61 fonts, out of 3000000 for 9000
+ 21956 strings out of 430478
+ 420372 string characters out of 3191503
+ 745289 words of memory out of 3000000
+ 24595 multiletter control sequences out of 15000+200000
+ 6688 words of font info for 62 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 47i,12n,97p,648b,1189s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,97p,590b,1189s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 135678942570.pdf (39 pages).
+Output written on 135678942570.pdf (43 pages).

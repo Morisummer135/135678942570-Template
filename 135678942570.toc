@@ -97,13 +97,20 @@
 \contentsline {subsection}{\numberline {1.11}圆面积并}{22}{subsection.1.11}
 \contentsline {subsection}{\numberline {1.12}圆与多边形交}{24}{subsection.1.12}
 \contentsline {subsection}{\numberline {1.13}三维凸包}{26}{subsection.1.13}
-\contentsline {section}{\numberline {2}Graph}{29}{section.2}
-\contentsline {subsection}{\numberline {2.1}Tarjan}{29}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Sap}{29}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}费用流}{30}{subsection.2.3}
-\contentsline {section}{\numberline {3}字符串}{33}{section.3}
-\contentsline {subsection}{\numberline {3.1}后缀数组dc3}{33}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}后缀数组da}{33}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}后缀自动机}{34}{subsection.3.3}
-\contentsline {section}{\numberline {4}杂物}{36}{section.4}
-\contentsline {subsection}{\numberline {4.1}Dancing Links}{36}{subsection.4.1}
+\contentsline {section}{\numberline {2}Math}{29}{section.2}
+\contentsline {subsection}{\numberline {2.1}Nim积}{29}{subsection.2.1}
+\contentsline {section}{\numberline {3}Graph}{30}{section.3}
+\contentsline {subsection}{\numberline {3.1}Tarjan}{30}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Sap}{30}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}费用流}{31}{subsection.3.3}
+\contentsline {section}{\numberline {4}字符串}{34}{section.4}
+\contentsline {subsection}{\numberline {4.1}后缀数组dc3}{34}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}后缀数组da}{34}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}后缀自动机}{35}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}manacher}{37}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}最小表示法}{37}{subsection.4.5}
+\contentsline {section}{\numberline {5}杂物}{38}{section.5}
+\contentsline {subsection}{\numberline {5.1}Dancing Links}{38}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}曼哈顿距离最小生成树}{40}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}栈外挂}{42}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}输入挂}{42}{subsection.5.4}
